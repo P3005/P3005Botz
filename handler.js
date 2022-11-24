@@ -15,11 +15,11 @@ import { createRequire } from 'module';
 const require = createRequire(import.meta.url);
 
 //Prems
-global.prems = ['6282151652728','6285714216711','6285640417385','6282187352115','6285803583481','6288215689772','6285651062576','77075196824'] // Premium user has unlimited limit
+global.prems = ['6282334750173','6285263066478','6285263066446'] // Premium user has unlimited limit
 
 // Sticker WM
-global.packname = 'Azami x Byoru'
-global.author = 'Bot V5'
+global.packname = 'P3005Botz'
+global.author = 'Bot V1'
 
 //apikey
 global.api = 'apikeylu'		// https://api.lolhuman.xyz/docs apikeylu
